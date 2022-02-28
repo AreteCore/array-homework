@@ -172,7 +172,7 @@ Exercise 14:
 // Complete Exercise 14 below...
 const num = (numArrays[2])[1]
 console.log("Exercise 14 Result: ", num)
-
+//try this without knowing where 66 is
 
 /*
 Exercise 15:
@@ -194,3 +194,15 @@ const someFunc = function(element) {
 numArrays.forEach(someFunc)
 
 console.log("Exercise 15 Result: ", total)
+// try this with a for loop
+
+//katies code
+  // let total2 = 0
+  // numArrays.forEach((outer) => {
+  //   outer.forEach((inner) => {
+  //     total2 += inner
+  //   })
+  // })
+  
+
+  //something
